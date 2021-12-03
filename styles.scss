@@ -1,0 +1,11 @@
+$nav-link-color: white;
+$body-bg: black;
+$body-color: white;
+$navbar-light-color: black;
+$dark-cerna: black;
+$secoundry-modra: #0d6efd;
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
+.cerna {background-color: $dark-cerna}
+.modra {background-color: $secoundry-modra}
